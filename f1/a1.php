@@ -6,8 +6,8 @@
  * Time: 下午 11:10
  */
 
-namespace Demo\f1;
+namespace Demo\F1;
 
-class a1{
+class A1{
 
 }
